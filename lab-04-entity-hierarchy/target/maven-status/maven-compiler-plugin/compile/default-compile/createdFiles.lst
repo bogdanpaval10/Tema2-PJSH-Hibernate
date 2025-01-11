@@ -1,0 +1,15 @@
+edu\jpa\TABLE_PER_CLASS\entity\Customer.class
+edu\jpa\TABLE_PER_HIERARCHY\entity\Customer.class
+edu\jpa\TABLE_PER_SUBCLASS\entity\Person.class
+edu\jpa\TABLE_PER_SUBCLASS\entity\Executive.class
+edu\jpa\TABLE_PER_SUBCLASS\Launcher.class
+edu\jpa\TABLE_PER_SUBCLASS\entity\Employee.class
+edu\jpa\TABLE_PER_CLASS\Launcher.class
+edu\jpa\TABLE_PER_HIERARCHY\entity\Executive.class
+edu\jpa\TABLE_PER_HIERARCHY\Launcher.class
+edu\jpa\TABLE_PER_CLASS\entity\Executive.class
+edu\jpa\TABLE_PER_CLASS\entity\Employee.class
+edu\jpa\TABLE_PER_CLASS\entity\Person.class
+edu\jpa\TABLE_PER_HIERARCHY\entity\Person.class
+edu\jpa\TABLE_PER_HIERARCHY\entity\Employee.class
+edu\jpa\TABLE_PER_SUBCLASS\entity\Customer.class
